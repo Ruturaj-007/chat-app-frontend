@@ -1,4 +1,4 @@
-Real-Time Chat App
+# Real-Time Chat App
 
 This project is a real-time chat application built with React and WebSockets. Users can join chat rooms, send messages instantly, and see updates without refreshing the page. It demonstrates client-server communication and dynamic UI updates for live messaging.
 
