@@ -1,3 +1,8 @@
+Real-Time Chat App
+
+This project is a real-time chat application built with React and WebSockets. Users can join chat rooms, send messages instantly, and see updates without refreshing the page. It demonstrates client-server communication and dynamic UI updates for live messaging.
+
+You can try the deployed app here: Chat App on Render https://chat-app-frontend-m2eb.onrender.com
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
